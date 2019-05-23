@@ -7,7 +7,7 @@ let mycontroller = function($scope){
 myapp.controller("MyController",mycontroller);
 
 let JSONController = function($scope){
-    let Student6= {
+    let Student= {
         FirstName: "Sneha",
         LastName: "Madhavaram",
         Email: "S533984@nwmissouri.edu"
